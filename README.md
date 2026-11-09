@@ -17,6 +17,7 @@ I build full-stack web applications and machine learning projects.
 
 | Project | What it is | Stack |
 |---|---|---|
+| [Daman-AI](https://github.com/douae-zouak/Daman-AI) | Moroccan administrative assistant (RAG, French/Arabic), team project | LangChain, ChromaDB, Mistral, FastAPI |
 | [Air_quality_prediction](https://github.com/ElHaouariChahd/Air_quality_prediction) | Air Quality Index prediction with an API and a dashboard | Python, ML, FastAPI, Streamlit |
 | [auto_scaling](https://github.com/ElHaouariChahd/auto_scaling) | Cluster autoscaling with deep reinforcement learning | Python, Double DQN, PER |
 | [SkillMatrix](https://github.com/ElHaouariChahd/SkillMatrix) · [Server](https://github.com/ElHaouariChahd/SkillMatrixServer) | Operator skill matrix app (internship, in production) | Angular, ASP.NET Core, SQL Server |
