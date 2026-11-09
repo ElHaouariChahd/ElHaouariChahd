@@ -9,7 +9,7 @@ I build full-stack web applications and machine learning projects.
 
 ##  Experience
 
-- **Nexteer Automotive** · Web development intern (Jul – Sep 2025)
+- **Nexteer Automotive** · Web development intern (Jul – Sep 2025)<br>
   Built *SkillMatrix*, an operator skill matrix app (Angular + ASP.NET Core + SQL Server), deployed to production.
 - **Flow Business** · ServiceNow development intern (Jul – Sep 2026)
 
